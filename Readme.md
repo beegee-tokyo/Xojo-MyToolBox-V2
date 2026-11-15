@@ -35,7 +35,7 @@ Changes made with the WisBlockLoRaWAN library are lost at the next reset unless 
 
 ### Windows (tested)
 
-1. Download `MyToolBox-Setup-2.x.x.exe` from the [`installer`](installer) folder (use the highest version).
+1. Download `MyToolBox-Setup-2.x.x.exe` from the [`Installer`](installer) folder (use the highest version).
 2. Run the installer and follow the steps.
 3. If Windows SmartScreen warns about an unknown publisher, click **More info** and then **Run anyway**.
 4. Connect your WisBlock device with a USB cable and start MyToolBox.

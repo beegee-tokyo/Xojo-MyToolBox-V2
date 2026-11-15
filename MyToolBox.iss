@@ -10,7 +10,7 @@
 ;  Settings you may need to adjust
 ; ---------------------------------------------------------------------------
 #define MyAppName        "MyToolBox"
-#define MyAppVersion     "2.0.1"
+#define MyAppVersion     "2.0.3"
 #define MyAppPublisher   "RAKwireless"
 #define MyAppURL         "https://www.rakwireless.com"
 #define MyAppExeName     "MyToolBox.exe"
